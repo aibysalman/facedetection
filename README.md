@@ -6,9 +6,9 @@ I create this Python script that utilizes the power of the OpenCV and Matplotlib
 #### Features at a Glance
 
 
-- 🔍 Single-Image Face Detection: Learn how to detect faces in individual images and enhance your understanding of the face detection process.
-- 📸 Batch Image Processing: Explore a more advanced use case, where you can effortlessly process multiple images at once, highlighting detected faces and indicating when no faces are found.
-- 🚀 Clean and Organized Code: Dive into well-structured code that's designed for clarity, easy comprehension, and extensibility. Perfect for both beginners and experts!
+🔍 Single-Image Face Detection: Learn how to detect faces in individual images and enhance your understanding of the face detection process.
+📸 Batch Image Processing: Explore a more advanced use case, where you can effortlessly process multiple images at once, highlighting detected faces and indicating when no faces are found.
+🚀 Clean and Organized Code: Dive into well-structured code that's designed for clarity, easy comprehension, and extensibility. Perfect for both beginners and experts!
 
 #### Requirements
 
